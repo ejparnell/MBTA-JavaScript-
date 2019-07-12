@@ -1,16 +1,3 @@
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
-
-# MBTA Practice
-
-## Prerequisites
-
-- [JS Reference Types](https://git.generalassemb.ly/ga-wdi-boston/js-reference-types)
-- [Sesame Street Subway Song](https://www.youtube.com/watch?v=mNBVTCJ9Dks)
-
-## Objectives
-
-- Practice with functions, lists (arrays), and dictionaries (object literal).
-
 ## Instructions
 
 1. Fork and clone this repository.
